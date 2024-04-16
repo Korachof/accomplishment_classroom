@@ -28,6 +28,6 @@ The third iteration will begin work on revising it into a 2D sprite-based invent
 <br>    - Hard Goal
 <br>Player Hub/Menu
 <br>Script that greets player
-... will add more in the near future
+<br>... will add more in the near future
 
 
