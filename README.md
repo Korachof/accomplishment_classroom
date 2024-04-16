@@ -6,8 +6,8 @@ This game is a fun and strategic way to not only reach your goals as an owner of
 Buy, sell, and collect your favorite video game consoles and pieces of media! Make mega profits as you grow your local business! Build relationships with different customers by having a variety of stock and offering good prices! With Accomplishment Storefront, both your real-life and virtual goals can be satisfied!
 
 Shop Item Categories
-Weapons
-Armor
-Tombs
-Scrolls
-Cultural Items
+<br>Weapons
+<br>Armor
+<br>Tombs
+<br>Scrolls
+<br>Cultural Items
